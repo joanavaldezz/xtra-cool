@@ -1,0 +1,12 @@
+.primary {
+    color: rgb(22, 22, 26);
+    text-align: center;
+}
+
+.font-xl {
+    font-size: 65px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body {
+    background-color: rgb(187, 200, 211);
+}
